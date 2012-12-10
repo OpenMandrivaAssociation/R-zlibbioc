@@ -44,3 +44,11 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/R
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/libs
+
+
+%changelog
+* Thu Feb 16 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0.0-1
++ Revision: 775508
+- Import R-zlibbioc
+- Import R-zlibbioc
+

@@ -1,6 +1,8 @@
 %global packname  zlibbioc
 %global rlibdir  %{_libdir}/R/library
 
+%define debug_package %{nil}
+
 Name:             R-%{packname}
 Version:          1.4.0
 Release:          1

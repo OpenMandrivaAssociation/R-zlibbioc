@@ -1,16 +1,14 @@
 %global packname  zlibbioc
 %global rlibdir  %{_libdir}/R/library
 
-%define debug_package %{nil}
-
 Name:             R-%{packname}
-Version:          1.4.0
-Release:          2
+Version:          1.6.0
+Release:          1
 Summary:          An R packaged zlib-1.2.5
 Group:            Sciences/Mathematics
 License:          Artistic-2.0 + file LICENSE
 URL:              http://bioconductor.org/packages/release/bioc/html/%{packname}.html
-Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/zlibbioc_1.4.0.tar.gz
+Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/zlibbioc_1.6.0.tar.gz
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 BuildRequires:    zlib-devel
 

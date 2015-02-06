@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.8.0
-Release:          1
+Release:          2
 Summary:          An R packaged zlib-1.2.5
 Group:            Sciences/Mathematics
 License:          Artistic-2.0 + file LICENSE

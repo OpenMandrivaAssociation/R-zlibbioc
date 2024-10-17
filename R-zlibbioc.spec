@@ -7,7 +7,7 @@ Release:          2
 Summary:          An R packaged zlib-1.2.5
 Group:            Sciences/Mathematics
 License:          Artistic-2.0 + file LICENSE
-URL:              http://bioconductor.org/packages/release/bioc/html/%{packname}.html
+URL:              https://bioconductor.org/packages/release/bioc/html/%{packname}.html
 Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/zlibbioc_1.8.0.tar.gz
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 BuildRequires:    zlib-devel
